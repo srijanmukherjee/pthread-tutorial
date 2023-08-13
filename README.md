@@ -13,4 +13,4 @@ Content:
 - producer consumer problem
 - thread pools in C using pthread api
 
-Playlist: (Unix Threads in C by CodeVault)[https://www.youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2]
+Playlist: [Unix Threads in C by CodeVault](https://www.youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
